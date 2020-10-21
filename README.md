@@ -1,6 +1,4 @@
 # Questgen AI   <br>
-https://questgen.ai/  
-
 
 Questgen AI is an opensource NLP library focused on developing easy to use Question generation algorithms.<br>
 It is on a quest build the world's most advanced question generation AI leveraging on state-of-the-art transformer models like T5, BERT and OpenAI GPT-2 etc.
@@ -226,12 +224,6 @@ Yes, sachin tendulkar is a former cricketer.
 
 For maintaining meaningfulness in Questions, Questgen uses Three T5 models. One for Boolean Question generation, one for MCQs, FAQs, Paraphrasing and one for answer generation.
 
-### Online Demo website
-Under development...
-https://questgen.ai/
-
-
-[![Linkedin Link](linkedin.png)](https://www.linkedin.com/company/30182152/)
 
 ## About me
 
@@ -246,7 +238,7 @@ https://questgen.ai/
 
 # 📫 Follw me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+[![Linkedin Link](linkedin.png)](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
 
 <p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
 
